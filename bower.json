@@ -1,0 +1,10 @@
+{
+  "name": "rambo",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap-sass-official": ">=3.3.0",
+    "modernizr": "^2.8.3",
+    "showdown": ">=0.3.4"
+  }
+}
